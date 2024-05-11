@@ -1,0 +1,89 @@
+.pro{
+top: 20px;
+background-color:green;
+color: white;
+}
+
+.akk{
+top: 80px;
+background-color:red;
+}
+
+.part{
+top: 140px;
+color: rgb(235, 218, 218);
+background-color: grey;
+}
+
+.tovar{
+top: 200px;
+background-color:darkblue ;
+}
+
+nav a{
+position: absolute;
+left: -80px;
+transition: 0.3s;
+padding: 15px;
+width: 100px;
+text-decoration: none;
+font-size: 20px;
+color: white;
+border-radius: 0 5px 5px 0 ;
+}
+
+nav a:hover {
+left: 0;
+}
+
+h1 {
+text-align: center;
+font-size:84px;
+
+}
+
+.nac{
+margin-left: 126px;
+font-size: 22px;
+font-family:cursive;
+}
+
+ .car{
+ background-image:url(https://png.pngtree.com/thumb_back/fw800/background/20230914/pngtree-illustration-of-wheat-field-harvest-blue-sky-and-white-clouds-image_13367471.jpg) ;
+ }  
+
+ .eee{
+ color: rgb(54, 54, 146);
+ } 
+
+ .eee:hover{
+ color: rgb(122, 121, 11);
+ }
+
+
+.product {
+    float: left;
+    width: 270px;
+    text-align: center;
+    padding: 10px;
+    margin-top: 40px;
+    margin-right: 0px;
+    margin-bottom: 40px;
+    margin-left:60px ;
+    font-size: 25px;
+    border: 1px solid black;
+}
+
+body {
+background-color: lightgrey;
+
+}
+
+.fff{
+height: auto;
+width: auto;
+}
+
+h2{
+text-align: center;
+}
